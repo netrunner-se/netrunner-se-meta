@@ -1,0 +1,30 @@
+Source: netrunner-se-meta
+Section: metapackages
+Priority: optional
+Maintainer: Rohan Garg <rohangarg@kubuntu.org>
+Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
+
+Package: netrunner-se-desktop
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Netrunner Plasma Desktop/Netbook system
+ This package depends on all of the packages in the Netrunner desktop system.
+ Installing this package will include the default Netrunner Plasma Desktop or
+ Netbook installation.  
+ .
+ It is safe to remove this package if some of the desktop system packages are
+ not desired.
+
+Package: netrunner-se-active
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Netrunner Active system
+ This package depends on all of the packages in the Netrunner Active system.
+ Installing this package will include the default Netrunner Active
+ installation.  
+ .
+ It is safe to remove this package if some of the desktop system packages are
+ not desired.

@@ -1,0 +1,179 @@
+netrunner-se-meta (13.06netrunner1~ppa3) raring; urgency=low
+
+  * Initial release based on netrunner-meta-lp package
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 31 Jul 2013 14:26:10 +0200
+
+netrunner-meta (13.06netrunner1~ppa1) raring; urgency=low
+
+  * Refreshed dependencies
+  * Added emerald to active, desktop
+  * Added homerun to active [i386], desktop [i386]
+  * Added kwin-style-smaragd to desktop
+  * Added libreoffice-calc to desktop-recommends [amd64]
+  * Added libreoffice-impress to desktop-recommends [amd64]
+  * Added libreoffice-writer to desktop-recommends [amd64]
+  * Added ndisgtk to desktop [amd64]
+  * Added ndiswrapper-dkms to desktop [amd64]
+  * Added netrunner-kde-wallpapers to active [i386], desktop [i386]
+  * Added netrunner-wallpapers to active [i386], desktop [i386]
+  * Added samba-mounter to active [amd64], desktop [amd64]
+  * Added webaccounts to active [amd64], desktop [amd64]
+  * Added wine-gecko1.8 to desktop [amd64]
+  * Removed firefox-kde-support from desktop [amd64]
+  * Removed libreoffice from desktop [amd64]
+  * Removed tomahawk from active [amd64], desktop [amd64]
+  * Refreshed dependencies
+
+ -- Rohan Garg <root@server88-208-201-116.live-servers.net>  Mon, 21 Jan 2013 16:49:12 +0000
+
+netrunner-meta (12.12netrunner1~ppa12) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-droid to active, desktop
+  * Added fonts-roboto to active, desktop
+  * Removed fonts-netrunner from active, desktop
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 26 Dec 2012 06:07:39 +0000
+
+netrunner-meta (12.12netrunner1~ppa11) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Removed lo-menubar from active, desktop
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 26 Dec 2012 02:47:27 +0000
+
+netrunner-meta (12.12netrunner1~ppa10) quantal; urgency=low
+
+  * Add netrunner-active
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 26 Dec 2012 02:04:23 +0000
+
+netrunner-meta (12.12netrunner1~ppa9) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added netrunner-settings-desktop to desktop-recommends
+  * Removed netrunner-desktop-settings from desktop-recommends
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 12 Dec 2012 14:16:25 +0530
+
+netrunner-meta (12.12netrunner1~ppa8) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added netrunner-artwork-firefox to desktop
+  * Added netrunner-artwork-thunderbird to desktop
+  * Removed netrunner-default-settings from desktop-recommends
+  * Added netrunner-desktop-settings to desktop-recommends
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 11 Dec 2012 16:26:36 +0530
+
+netrunner-meta (12.12netrunner1~ppa5) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-netrunner to desktop
+
+ -- Rohan Garg <shadeslayer@solembum>  Wed, 05 Dec 2012 00:43:53 +0530
+
+netrunner-meta (12.12netrunner1~ppa4) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added konversation to desktop
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 03 Dec 2012 14:49:03 +0530
+
+netrunner-meta (12.12netrunner1~ppa3) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added kio-sysinfo to desktop
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 28 Nov 2012 17:37:20 +0530
+
+netrunner-meta (12.12netrunner1~ppa2) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added homerun to desktop [i386]
+  * Added netrunner-theme-extras to desktop [amd64]
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 13 Nov 2012 01:47:16 +0000
+
+netrunner-meta (12.12netrunner1~ppa1) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added aisleriot to desktop
+  * Added calligraflow to desktop
+  * Added emerald to desktop
+  * Added homerun to desktop
+  * Added ksudoku to desktop
+  * Added kwin-style-smaragd to desktop
+  * Added ndiswrapper-utils-1.9 to desktop
+  * Added netrunner-kde-wallpapers to desktop
+  * Added netrunner-wallpapers to desktop
+  * Added ubuntu-restricted-extras to desktop
+  * Removed amarok from desktop-recommends
+  * Removed kpat from desktop-recommends
+  * Moved kde-config-gtk-style to desktop-recommends
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 12 Nov 2012 23:26:34 +0000
+
+netrunner-meta (3) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added firefox-kde-support to desktop
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 12 Nov 2012 22:33:10 +0000
+
+netrunner-meta (2) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added colord-kde to desktop-recommends
+  * Added compiz-plugins to desktop
+  * Added inkscape to desktop
+  * Added kde-config-gtk-style to desktop
+  * Added kde-workspace to desktop
+  * Added libpam-xdg-support to desktop
+  * Added libreoffice-gtk to desktop
+  * Added libreoffice-style-human to desktop
+  * Added libwnck22 to desktop
+  * Added lo-menubar to desktop
+  * Added pavucontrol to desktop
+  * Added print-manager to desktop-recommends
+  * Added qtcurve to desktop
+  * Added webaccounts to desktop
+  * Removed blinken from desktop
+  * Removed calligra from desktop-recommends
+  * Removed calligraflow from desktop
+  * Removed dragonplayer from desktop-recommends
+  * Removed karbon from desktop
+  * Removed kde-workspace-bin from desktop
+  * Removed ktimetracker from desktop-recommends [i386]
+  * Removed libreoffice-kde from desktop
+  * Removed libreoffice-style-oxygen from desktop
+  * Removed printer-applet from desktop-recommends
+  * Removed system-config-printer-kde from desktop-recommends
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 12 Nov 2012 22:17:28 +0000
+
+netrunner-meta (1) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added kscreensaver-xsavers to desktop
+  * Added kscreensaver-xsavers-extra to desktop
+  * Added kubuntu-restricted-extras to desktop
+  * Added rar to desktop
+  * Added ttf-mscorefonts-installer to desktop
+  * Added akonadi-kde-resource-googledata to desktop
+  * Added kdiamond to desktop
+  * Added ktron to desktop
+  * Added skype to desktop
+  * Added cifs-utils to desktop
+  * Added fonts-freefont-ttf to desktop
+  * Added tomahawk to desktop
+  * Added cifs-utils to desktop [i386]
+  * Added fonts-freefont-ttf to desktop [i386]
+  * Added netrunner-default-settings to desktop-recommends
+  * Added plymouth-theme-netrunner-logo to desktop-recommends
+  * Added plymouth-theme-netrunner-text to desktop-recommends
+  * Added muon-discover to desktop
+  * Added samba-mounter to desktop
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 24 Aug 2012 01:43:37 +0530
